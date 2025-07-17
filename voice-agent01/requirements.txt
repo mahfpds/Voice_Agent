@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+webrtcvad
+numpy
+scipy
+httpx
+faster-whisper>=1.0.0
+langchain-core
+langchain-ollama
+torch==2.3.0+cu121
+torchaudio==2.3.0+cu121
